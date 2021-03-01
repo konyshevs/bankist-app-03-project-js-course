@@ -1,6 +1,11 @@
 # bankist-app Project
 
 Bank account managing aplication.
+
+Accaunts: 
+login: sr pin: 1111
+login: jd pin: 2222
+
 https://bankist-app-ks.netlify.app
 
 Project № 3 of course "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann
