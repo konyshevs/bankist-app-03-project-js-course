@@ -6,7 +6,7 @@ Accaunts:
 login: sr pin: 1111
 login: jd pin: 2222
 
-https://bankist-app-ks.netlify.app
+Project URL: https://bankist-app-ks.netlify.app
 
 Project № 3 of course "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann
 https://www.udemy.com/course/the-complete-javascript-course/
